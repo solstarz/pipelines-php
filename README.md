@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/jeanpierresolognier/test/_apis/build/status/solstarz.pipelines-php)](https://dev.azure.com/jeanpierresolognier/test/_build/latest?definitionId=1)
 
 # Contributing
 
